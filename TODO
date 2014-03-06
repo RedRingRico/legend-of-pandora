@@ -20,3 +20,5 @@ TODO
 [ ] add ed imortality counter so he can't be insta-killed
 [ ] add ed flashing when hurt
 [ ] add status icons for top screen (health and map location)
+[ ] image with plot text
+[ ] code to scroll plot text if user doesn't hit a key at the title screen after a few seconds.
