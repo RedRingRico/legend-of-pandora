@@ -1,0 +1,22 @@
+legend-of-pandora
+=================
+
+TODO
+
+[x] finish migrating from SDL_sound to SDL_mixer
+[ ] animation for bats
+[ ] art fot three bosses. (Tempus genie, Count Van Fire, King Board Troll)
+[ ] animation for falling rocks
+[ ] Pandora pieces for guarding by bosses
+[ ] -You have perished- end screen and loop back to intro once key is pressed
+[ ] Ed holding completed Pandora logo -YOU HAVE WON- end screen
+[ ] intro/end music
+[ ] game music
+[ ] boss music
+[ ] program less monster of certin type after associated boss has died (KT/trolls, CVF/bats, T/rats)
+[ ] drunk craig who heals character by leaving open container of "health"
+[ ] volcanic rock tiles
+[ ] improve map
+[ ] add ed imortality counter so he can't be insta-killed
+[ ] add ed flashing when hurt
+[ ] add status icons for top screen (health and map location)
